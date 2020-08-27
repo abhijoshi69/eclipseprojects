@@ -1,0 +1,56 @@
+package com.learning.logincheckingjsonapi.controller;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
+import org.springframework.security.crypto.bcrypt.BCrypt;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import com.learning.logincheckingjsonapi.model.UserModel;
+import com.learning.logincheckingjsonapi.services.DOA_Imp;
+import com.learning.logincheckingjsonapi.services.IDOA;
+
+@Controller
+public class LoginCheckingJsonApiHomeController
+{
+	@Autowired
+	UserModel model;
+	
+	@Autowired
+	IDOA idoaservice;
+	
+	@RequestMapping(value="/insertCredentials",method = RequestMethod.POST,consumes = MediaType.APPLICATION_JSON)
+	public @ResponseBody Map insertCredentials(@RequestBody UserModel model)
+	{
+		idoaservice = new DOA_Imp();
+		Map userMap = new HashMap();
+		
+		try
+		{
+			String hashpwd = BCrypt.hashpw(model.getPassword(),BCrypt.gensalt());
+			UserModel user = new UserModel(model.getUsername(),hashpwd);
+			int i = idoaservice.insertCredentials(user);
+			if(i>0)
+			{
+				userMap.put("Success",true);
+			}
+			else
+			{
+				userMap.put("Success",false);
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("Error: "+e.getMessage());
+			userMap.put("Success",false);
+		}
+		
+		return userMap;
+	}
+}

@@ -1,0 +1,69 @@
+<%@page import="java.util.List"%>
+<%@page import="com.niit.advjava.demos.Sample.Model1"%>
+<%@page import="com.niit.advjava.demos.Sample.DB_Conn"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<%
+		
+		DB_Conn db = new DB_Conn();
+		String id = request.getParameter("viewid");
+		List <Model1> data= db.viewbyid(id);
+		if(data.size()>0)
+		{
+	%>
+			<% 
+				for(Model1 model1 : data)
+				{
+			%>
+								<div class="container">
+								<div class="jumbotron">
+							<div class="form-group row-sm-4">
+    							<label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Product ID:</label>
+    								<div class="col-sm-8">
+      											<%
+      												out.print(model1.getProductid());
+      											%>
+    								</div>
+  							</div>
+ 								 <div class="form-group row">
+    							<label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Product Name:</label>
+    								<div class="col-sm-8">
+      											<%
+      												out.print(model1.getProductname());
+      											%>
+    								</div>
+  							</div>
+  								<div class="form-group row">
+   								 <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Product Quantity:</label>
+    								<div class="col-sm-8">
+      											<%
+      												out.print(model1.getProductquantity());
+      											%>
+  									  </div>
+  							</div>
+						  <div class="form-group row">
+    									<label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Product Description:</label>
+    								<div class="col-sm-8">
+    										<%
+    												out.print(model1.getProductdescription());
+    										%>
+      
+   								 </div>
+					  </div>
+						</div>
+					</div>
+					<%
+						}
+					%>
+	<%
+		}
+	%>
+</body>
+</html>

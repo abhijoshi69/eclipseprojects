@@ -1,0 +1,589 @@
+
+Jun 24, 2019 14:26:53.63 NEW SESSION
+Jun 24, 2019 14:26:53.63 [6692:9652:0624/142653.625:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 24, 2019 14:32:10.16 [6692:9124:0624/143210.169:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jun 24, 2019 14:37:15.93 [6692:9124:0624/143715.936:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jun 24, 2019 14:42:16.76 [6692:9652:0624/144216.763:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 24, 2019 14:42:17.02 [6692:9124:0624/144217.023:ERROR:browser_process_sub_thread.cc(221)] Waited 66 ms for network service
+Jun 24, 2019 14:43:26.57 [10080:7596:0624/144326.577:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 24, 2019 14:43:31.04 [10080:7596:0624/144331.043:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 24, 2019 14:43:31.46 [10080:1556:0624/144331.462:ERROR:browser_process_sub_thread.cc(221)] Waited 182 ms for network service
+Jun 24, 2019 15:05:07.12 [968:10432:0624/150507.123:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 24, 2019 15:05:07.28 [968:8420:0624/150507.283:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:05:35.33 [968:8420:0624/150535.337:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:06:20.98 [968:8420:0624/150620.985:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:06:55.41 [968:10432:0624/150655.411:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 24, 2019 15:06:55.80 [968:8420:0624/150655.801:ERROR:browser_process_sub_thread.cc(221)] Waited 130 ms for network service
+Jun 24, 2019 15:07:19.70 [5056:10848:0624/150719.702:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 24, 2019 15:07:19.73 [5056:8916:0624/150719.719:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:07:46.33 [5056:8916:0624/150746.339:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:08:39.15 [5056:8916:0624/150839.156:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:10:31.55 [5056:8916:0624/151031.558:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 24, 2019 15:11:24.63 [5056:10848:0624/151124.635:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 24, 2019 15:11:24.86 [5056:8916:0624/151124.866:ERROR:browser_process_sub_thread.cc(221)] Waited 88 ms for network service
+
+Jun 26, 2019 13:49:20.05 NEW SESSION
+Jun 26, 2019 13:49:20.05 [8692:2736:0626/134920.055:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 13:49:22.19 [8692:7100:0626/134922.192:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 13:49:28.40 [8692:2736:0626/134928.402:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 13:49:28.68 [8692:7100:0626/134928.681:ERROR:browser_process_sub_thread.cc(221)] Waited 73 ms for network service
+Jun 26, 2019 13:50:21.32 [4564:3420:0626/135021.328:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 13:50:27.78 [4564:3420:0626/135027.786:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 13:50:28.15 [4564:7936:0626/135028.158:ERROR:browser_process_sub_thread.cc(221)] Waited 189 ms for network service
+Jun 26, 2019 13:51:39.86 [940:11156:0626/135139.863:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 13:51:48.09 [940:8980:0626/135148.094:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -21
+Jun 26, 2019 13:51:50.15 [940:11156:0626/135150.157:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 13:51:50.49 [940:8980:0626/135150.495:ERROR:browser_process_sub_thread.cc(221)] Waited 152 ms for network service
+Jun 26, 2019 13:52:58.61 [5124:1344:0626/135258.613:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 13:52:58.62 [5124:2020:0626/135258.616:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 13:53:01.47 [5124:1344:0626/135301.475:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 13:53:01.88 [5124:2020:0626/135301.880:ERROR:browser_process_sub_thread.cc(221)] Waited 158 ms for network service
+Jun 26, 2019 13:58:55.24 [4980:7032:0626/135855.242:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 13:58:55.25 [4980:3540:0626/135855.245:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 13:59:00.40 [4980:7032:0626/135900.403:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 13:59:00.68 [4980:3540:0626/135900.680:ERROR:browser_process_sub_thread.cc(221)] Waited 95 ms for network service
+Jun 26, 2019 14:03:17.19 [9488:6620:0626/140317.194:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 14:03:17.20 [9488:9848:0626/140317.202:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:03:20.31 [9488:6620:0626/140320.317:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 14:03:20.57 [9488:9848:0626/140320.579:ERROR:browser_process_sub_thread.cc(221)] Waited 104 ms for network service
+Jun 26, 2019 14:04:40.85 [8648:6804:0626/140440.855:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 14:04:40.86 [8648:9016:0626/140440.859:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:04:45.87 [8648:6804:0626/140445.878:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 14:04:46.19 [8648:9016:0626/140446.198:ERROR:browser_process_sub_thread.cc(221)] Waited 101 ms for network service
+Jun 26, 2019 14:05:31.32 [1652:772:0626/140531.329:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:05:31.33 [1652:7180:0626/140531.333:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 14:05:34.70 [1652:7180:0626/140534.699:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 26, 2019 14:05:35.06 [1652:772:0626/140535.061:ERROR:browser_process_sub_thread.cc(221)] Waited 61 ms for network service
+Jun 26, 2019 14:11:46.80 [5300:10768:0626/141146.805:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:11:46.82 [5300:10180:0626/141146.811:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 26, 2019 14:11:46.82 [5300:10768:0626/141146.823:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:12:27.84 [5300:10768:0626/141227.847:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:13:55.18 [5300:10768:0626/141355.185:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:17:11.59 [5300:10768:0626/141711.592:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:24:21.11 [5300:10768:0626/142421.110:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:26:32.68 [5300:10180:0626/142632.683:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:27:00.93 [5300:10180:0626/142700.938:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:27:50.48 [5300:10180:0626/142750.486:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:29:50.34 [5300:10180:0626/142950.347:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:33:01.63 [5300:10180:0626/143301.635:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:34:21.11 [5300:10768:0626/143421.114:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:39:42.05 [5300:10180:0626/143942.050:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jun 26, 2019 14:44:21.11 [5300:10768:0626/144421.116:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 26, 2019 14:48:44.80 [5300:10180:0626/144844.802:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+
+Jun 29, 2019 17:49:08.32 NEW SESSION
+Jun 29, 2019 17:49:08.32 [4272:12232:0629/174908.327:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 17:49:08.46 [4272:3272:0629/174908.328:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2019 17:49:38.24 [4272:3272:0629/174938.247:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+
+Jun 29, 2019 21:11:14.92 NEW SESSION
+Jun 29, 2019 21:11:14.92 [10572:5016:0629/211114.916:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:11:36.98 [10572:5016:0629/211136.979:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:11:37.47 [10572:7816:0629/211137.476:ERROR:browser_process_sub_thread.cc(221)] Waited 287 ms for network service
+Jun 29, 2019 21:17:22.08 [10488:1388:0629/211722.079:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:18:51.88 [10488:1388:0629/211851.883:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:18:52.14 [10488:3044:0629/211852.141:ERROR:browser_process_sub_thread.cc(221)] Waited 17 ms for network service
+Jun 29, 2019 21:19:22.83 [6092:6676:0629/211922.838:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:19:32.21 [6092:6676:0629/211932.211:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:19:32.62 [6092:12252:0629/211932.624:ERROR:browser_process_sub_thread.cc(221)] Waited 244 ms for network service
+Jun 29, 2019 21:20:49.03 [9956:11632:0629/212049.037:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:21:04.65 [9956:11632:0629/212104.651:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:21:05.07 [9956:8144:0629/212105.070:ERROR:browser_process_sub_thread.cc(221)] Waited 231 ms for network service
+Jun 29, 2019 21:31:16.63 [5804:9664:0629/213116.638:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:31:24.27 [5804:9664:0629/213124.270:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:31:24.88 [5804:11940:0629/213124.880:ERROR:browser_process_sub_thread.cc(221)] Waited 224 ms for network service
+Jun 29, 2019 21:31:43.65 [4824:3152:0629/213143.655:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 29, 2019 21:31:50.13 [4824:3152:0629/213150.131:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 29, 2019 21:31:50.42 [4824:10380:0629/213150.423:ERROR:browser_process_sub_thread.cc(221)] Waited 114 ms for network service
+
+Jun 30, 2019 21:24:10.75 NEW SESSION
+Jun 30, 2019 21:24:10.75 [9852:11876:0630/212410.752:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 30, 2019 21:24:10.91 [9852:11876:0630/212410.754:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jun 30, 2019 21:24:33.78 [9852:11876:0630/212433.787:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 30, 2019 21:24:34.21 [9852:7372:0630/212434.212:ERROR:browser_process_sub_thread.cc(221)] Waited 213 ms for network service
+Jun 30, 2019 21:24:49.04 [10464:10636:0630/212449.045:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jun 30, 2019 21:24:55.53 [10464:10636:0630/212455.536:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jun 30, 2019 21:24:55.82 [10464:4564:0630/212455.829:ERROR:browser_process_sub_thread.cc(221)] Waited 123 ms for network service
+Jun 30, 2019 21:44:24.90 [9552:5056:0630/214424.901:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Jul 01, 2019 12:09:21.28 NEW SESSION
+Jul 01, 2019 12:09:21.28 [4708:672:0701/120921.280:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:09:34.72 [4708:672:0701/120934.727:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:09:35.16 [4708:11144:0701/120935.163:ERROR:browser_process_sub_thread.cc(221)] Waited 178 ms for network service
+Jul 01, 2019 12:13:26.18 [1720:4728:0701/121326.185:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:13:36.59 [1720:4728:0701/121336.593:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:13:37.19 [1720:8444:0701/121337.196:ERROR:browser_process_sub_thread.cc(221)] Waited 249 ms for network service
+Jul 01, 2019 12:13:50.99 [5212:940:0701/121350.995:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:14:27.68 [5212:940:0701/121427.684:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:14:28.10 [5212:8592:0701/121428.101:ERROR:browser_process_sub_thread.cc(221)] Waited 122 ms for network service
+Jul 01, 2019 12:14:57.22 [1672:11992:0701/121457.222:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:15:08.15 [1672:11992:0701/121508.153:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:15:08.81 [1672:11136:0701/121508.817:ERROR:browser_process_sub_thread.cc(221)] Waited 372 ms for network service
+Jul 01, 2019 12:15:23.82 [4028:1340:0701/121523.822:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:15:33.45 [4028:1340:0701/121533.451:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:15:33.82 [4028:2796:0701/121533.827:ERROR:browser_process_sub_thread.cc(221)] Waited 136 ms for network service
+Jul 01, 2019 12:16:33.40 [11640:11448:0701/121633.400:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 12:16:41.43 [11640:11448:0701/121641.432:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 12:16:41.88 [11640:820:0701/121641.884:ERROR:browser_process_sub_thread.cc(221)] Waited 243 ms for network service
+
+Jul 01, 2019 14:58:50.82 NEW SESSION
+Jul 01, 2019 14:58:50.82 [6924:4920:0701/145850.815:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 14:58:52.21 [6924:12116:0701/145852.212:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2019 14:59:16.79 [6924:12116:0701/145916.789:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2019 15:00:07.06 [6924:12116:0701/150007.066:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jul 01, 2019 15:01:40.25 [6924:12116:0701/150140.252:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+
+Jul 01, 2019 22:54:35.08 NEW SESSION
+Jul 01, 2019 22:54:35.08 [5412:8432:0701/225435.082:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 22:54:35.34 [5412:8432:0701/225435.082:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:02:18.88 [5412:8432:0701/230218.883:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:02:19.22 [5412:7772:0701/230219.229:ERROR:browser_process_sub_thread.cc(221)] Waited 89 ms for network service
+Jul 01, 2019 23:02:26.53 [796:4696:0701/230226.532:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:02:35.20 [796:4696:0701/230235.205:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:02:35.67 [796:4588:0701/230235.675:ERROR:browser_process_sub_thread.cc(221)] Waited 262 ms for network service
+Jul 01, 2019 23:06:20.42 [12176:6832:0701/230620.428:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:06:46.89 [12176:6832:0701/230646.890:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:06:47.26 [12176:3132:0701/230647.260:ERROR:browser_process_sub_thread.cc(221)] Waited 208 ms for network service
+Jul 01, 2019 23:06:54.56 [4188:8828:0701/230654.565:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:07:10.05 [4188:8828:0701/230710.056:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:07:10.42 [4188:9248:0701/230710.415:ERROR:browser_process_sub_thread.cc(221)] Waited 141 ms for network service
+Jul 01, 2019 23:08:11.36 [9760:7776:0701/230811.362:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:11:01.75 [9760:7776:0701/231101.749:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:11:02.21 [9760:11096:0701/231102.218:ERROR:browser_process_sub_thread.cc(221)] Waited 120 ms for network service
+Jul 01, 2019 23:12:16.80 [10720:10088:0701/231216.807:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 01, 2019 23:12:25.52 [10720:10088:0701/231225.524:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 01, 2019 23:12:26.00 [10720:8760:0701/231226.000:ERROR:browser_process_sub_thread.cc(221)] Waited 193 ms for network service
+
+Jul 21, 2019 10:36:00.22 NEW SESSION
+Jul 21, 2019 10:36:00.22 [3352:8860:0721/103600.221:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 10:36:00.40 [3352:8860:0721/103600.221:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 10:36:21.93 [3352:8860:0721/103621.932:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 10:36:22.32 [3352:8720:0721/103622.323:ERROR:browser_process_sub_thread.cc(221)] Waited 200 ms for network service
+Jul 21, 2019 10:37:28.23 [9460:7800:0721/103728.238:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 10:44:01.67 [9460:7800:0721/104401.679:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 10:44:02.01 [9460:4396:0721/104402.012:ERROR:browser_process_sub_thread.cc(221)] Waited 46 ms for network service
+Jul 21, 2019 10:44:46.02 [10064:5140:0721/104446.021:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 10:45:11.10 [10064:5140:0721/104511.105:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 10:45:11.63 [10064:2168:0721/104511.628:ERROR:browser_process_sub_thread.cc(221)] Waited 282 ms for network service
+Jul 21, 2019 10:45:24.58 [4008:1668:0721/104524.586:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 10:45:34.83 [4008:1668:0721/104534.830:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 10:45:35.15 [4008:420:0721/104535.156:ERROR:browser_process_sub_thread.cc(221)] Waited 137 ms for network service
+Jul 21, 2019 11:00:42.58 [6220:10204:0721/110042.585:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 11:01:33.45 [6220:10204:0721/110133.455:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 11:01:33.78 [6220:8396:0721/110133.770:ERROR:browser_process_sub_thread.cc(221)] Waited 124 ms for network service
+Jul 21, 2019 11:02:59.35 [2120:10416:0721/110259.351:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jul 21, 2019 11:03:06.06 [2120:10416:0721/110306.063:ERROR:http_bridge.cc(110)] NOT IMPLEMENTED
+Jul 21, 2019 11:03:06.48 [2120:1644:0721/110306.482:ERROR:browser_process_sub_thread.cc(221)] Waited 262 ms for network service
+Jul 21, 2019 11:03:54.22 [9392:10812:0721/110354.226:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Aug 11, 2019 10:05:16.80 NEW SESSION
+Aug 11, 2019 10:05:16.80 [2744:1680:0811/100516.804:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 11, 2019 10:05:26.62 [2744:9460:0811/100526.619:ERROR:browser_process_sub_thread.cc(203)] Waited 311 ms for network service
+Aug 11, 2019 10:41:41.15 [11988:6228:0811/104141.154:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 11, 2019 10:44:33.85 [11988:6112:0811/104433.856:ERROR:browser_process_sub_thread.cc(203)] Waited 141 ms for network service
+Aug 11, 2019 10:44:55.91 [3084:3928:0811/104455.909:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 11, 2019 10:49:15.95 [3084:5732:0811/104915.959:ERROR:browser_process_sub_thread.cc(203)] Waited 54 ms for network service
+Aug 11, 2019 10:51:04.66 [11652:12580:0811/105104.666:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 11, 2019 10:51:13.62 [11652:9288:0811/105113.612:ERROR:browser_process_sub_thread.cc(203)] Waited 355 ms for network service
+Aug 11, 2019 10:54:33.43 [7360:10804:0811/105433.429:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 11, 2019 10:59:57.04 [7360:5100:0811/105957.036:ERROR:browser_process_sub_thread.cc(203)] Waited 48 ms for network service
+
+Aug 18, 2019 10:00:37.04 NEW SESSION
+Aug 18, 2019 10:00:37.04 [10796:6080:0818/100037.046:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 18, 2019 10:00:48.44 [10796:9540:0818/100048.439:ERROR:browser_process_sub_thread.cc(203)] Waited 196 ms for network service
+Aug 18, 2019 10:21:27.57 [8496:10140:0818/102127.558:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 18, 2019 10:21:35.92 [8496:2364:0818/102135.924:ERROR:browser_process_sub_thread.cc(203)] Waited 360 ms for network service
+Aug 18, 2019 10:24:33.21 [6080:6892:0818/102433.211:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 18, 2019 10:24:43.97 [6080:1964:0818/102443.978:ERROR:browser_process_sub_thread.cc(203)] Waited 337 ms for network service
+Aug 18, 2019 10:26:27.65 [3164:4568:0818/102627.657:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 18, 2019 10:44:13.19 [3164:9200:0818/104413.198:ERROR:browser_process_sub_thread.cc(203)] Waited 795 ms for network service
+
+Aug 25, 2019 10:11:55.72 NEW SESSION
+Aug 25, 2019 10:11:55.72 [1260:9076:0825/101155.724:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 25, 2019 10:12:02.73 [1260:4088:0825/101202.736:ERROR:browser_process_sub_thread.cc(203)] Waited 295 ms for network service
+Aug 25, 2019 10:28:29.06 [4528:11740:0825/102829.064:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Aug 25, 2019 11:01:40.91 [4528:12420:0825/110140.909:ERROR:browser_process_sub_thread.cc(203)] Waited 248 ms for network service
+
+Sep 22, 2019 11:18:20.18 NEW SESSION
+Sep 22, 2019 11:18:20.18 [5228:8748:0922/111820.173:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Sep 29, 2019 11:01:40.13 NEW SESSION
+Sep 29, 2019 11:01:40.29 [512:11216:0929/110140.136:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Oct 13, 2019 09:47:39.36 NEW SESSION
+Oct 13, 2019 09:47:39.36 [12380:10940:1013/094739.349:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Oct 13, 2019 09:48:16.39 [12380:7412:1013/094816.396:ERROR:connection_handler_impl.cc(478)] Timed out waiting for GCM Protocol buffer.
+Oct 13, 2019 09:58:31.57 [5164:10560:1013/095831.571:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Nov 05, 2019 12:03:40.13 NEW SESSION
+Nov 05, 2019 12:03:40.13 [5164:2448:1105/120339.865:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Nov 05, 2019 12:06:21.91 [5164:2448:1105/120621.913:ERROR:command_buffer_proxy_impl.cc(93)] ContextResult::kFatalFailure: AllocateAndMapSharedMemory failed
+
+Dec 22, 2019 14:21:53.34 NEW SESSION
+Dec 22, 2019 14:21:53.34 [10208:8868:1222/142153.337:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 22, 2019 14:22:20.70 [10208:13048:1222/142220.699:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -100
+Dec 22, 2019 14:27:52.32 [10208:13048:1222/142752.326:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 22, 2019 14:33:04.65 [10208:13048:1222/143304.658:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 22, 2019 14:35:30.70 [10208:13048:1222/143530.705:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2019 14:35:50.82 [10208:13048:1222/143550.821:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2019 14:36:46.20 [10208:13048:1222/143646.202:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2019 14:38:13.00 [10208:13048:1222/143813.000:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2019 14:41:32.09 [10208:13048:1222/144132.091:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Dec 27, 2019 11:28:59.81 NEW SESSION
+Dec 27, 2019 11:28:59.81 [13680:13708:1227/112859.811:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Dec 27, 2019 11:29:00.04 [13680:13708:1227/112859.811:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Dec 27, 2019 15:36:12.89 NEW SESSION
+Dec 27, 2019 15:36:12.89 [13688:11356:1227/153612.888:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+Jan 02, 2020 13:45:52.67 NEW SESSION
+Jan 02, 2020 13:45:52.67 [13180:6832:0102/134552.668:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 02, 2020 13:46:21.62 [13180:6832:0102/134621.619:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 02, 2020 13:47:09.22 [13180:6832:0102/134709.222:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+Jan 02, 2020 13:48:04.78 [13180:6832:0102/134804.785:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+
+Feb 16, 2020 11:15:09.76 NEW SESSION
+Feb 16, 2020 11:15:09.76 [10148:6700:0216/111509.699:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.881 s for first_image_paint 2.865 s
+Feb 16, 2020 11:15:11.06 [10148:6700:0216/111511.065:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.881 s for first_image_paint 2.865 s
+Feb 16, 2020 11:15:14.47 [10148:6700:0216/111514.474:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.881 s for first_image_paint 2.865 s
+Feb 16, 2020 11:15:16.06 [10148:6700:0216/111516.065:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.881 s for first_image_paint 2.865 s
+Feb 16, 2020 11:15:16.28 [10148:6700:0216/111516.283:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 2.881 s for first_image_paint 2.865 s
+Feb 16, 2020 11:32:23.38 [0216/113223.388:ERROR:process_info.cc(359)] UncheckedAllocate
+Feb 16, 2020 11:32:24.23 [10148:6272:0216/113224.236:ERROR:block_files.cc(469)] Failed to open C:\Users\rahul\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_0
+
+Feb 18, 2020 08:26:51.69 NEW SESSION
+Feb 18, 2020 08:26:51.69 [8548:6792:0218/082651.685:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 18, 2020 08:27:15.15 [8548:1944:0218/082715.158:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 18, 2020 08:27:15.69 [8548:1944:0218/082715.695:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Feb 18, 2020 08:27:17.95 [8548:6792:0218/082717.955:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 18, 2020 08:27:35.97 [8548:1944:0218/082735.978:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 18, 2020 08:28:11.56 [8548:6792:0218/082811.568:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 18, 2020 08:28:27.95 [8548:1944:0218/082827.953:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 18, 2020 08:29:54.45 [8548:1944:0218/082954.449:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 18, 2020 08:29:54.69 [8548:6792:0218/082954.690:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 18, 2020 08:32:38.25 [8548:6792:0218/083238.258:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 18, 2020 08:33:13.56 [8548:1944:0218/083313.564:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Feb 20, 2020 16:01:42.17 NEW SESSION
+Feb 20, 2020 16:01:42.17 [10420:11040:0220/160141.984:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.09 s for first_image_paint 0.657 s
+Feb 20, 2020 16:01:43.53 [10420:11040:0220/160143.154:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.09 s for first_image_paint 0.657 s
+Feb 20, 2020 16:01:44.44 [10420:11040:0220/160144.444:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.09 s for first_image_paint 0.657 s
+Feb 20, 2020 16:01:44.82 [10420:11040:0220/160144.828:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.09 s for first_image_paint 0.657 s
+
+Feb 22, 2020 10:25:42.93 NEW SESSION
+Feb 22, 2020 10:25:42.93 [2772:8276:0222/102542.934:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:26:05.30 [2772:8276:0222/102605.309:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:26:51.29 [2772:8276:0222/102651.292:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:28:17.73 [2772:8276:0222/102817.733:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 22, 2020 10:31:22.27 [2772:8276:0222/103122.277:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Feb 22, 2020 14:12:04.94 NEW SESSION
+Feb 22, 2020 14:12:04.94 [0222/141204.751:ERROR:process_info.cc(359)] UncheckedAllocate
+
+Feb 22, 2020 22:44:59.80 NEW SESSION
+Feb 22, 2020 22:44:59.80 [0222/224459.798:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 22:47:27.33 [0222/224727.338:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:05:58.81 [0222/230558.816:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:06:37.21 [0222/230637.216:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:09:15.71 [0222/230915.713:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:09:27.53 [0222/230927.537:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:12:20.61 [0222/231220.618:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 22, 2020 23:13:00.83 [0222/231300.838:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 24:17:55.75 [0223/001755.754:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 24:18:04.69 [0223/001804.691:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 24:18:33.91 [0223/001833.917:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 24:19:54.34 [0223/001954.347:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 24:20:05.63 [0223/002005.630:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Feb 23, 2020 08:09:24.48 NEW SESSION
+Feb 23, 2020 08:09:24.48 [0223/080924.481:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:10:07.02 [0223/081007.025:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:19:24.48 [0223/081924.487:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:19:24.48 [0223/081924.488:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:24:24.51 [0223/082424.511:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:39:24.51 [0223/083924.511:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 08:54:24.51 [0223/085424.513:ERROR:crash_report_database_win.cc(428)] unexpected header
+Feb 23, 2020 09:09:24.63 [0223/090924.527:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Feb 24, 2020 09:58:48.29 NEW SESSION
+Feb 24, 2020 09:58:48.29 [3252:14184:0224/095848.289:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 09:58:48.38 [3252:8372:0224/095848.321:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 24, 2020 09:59:10.30 [3252:14184:0224/095910.308:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 09:59:14.83 [3252:8372:0224/095914.834:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 24, 2020 09:59:56.48 [3252:14184:0224/095956.480:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 10:00:14.79 [3252:8372:0224/100014.799:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 24, 2020 10:01:23.47 [3252:14184:0224/100123.470:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 10:01:55.60 [3252:8372:0224/100155.608:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 24, 2020 10:09:45.97 [3252:14184:0224/100945.975:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:14:52.56 [3252:14184:0224/101452.562:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:14:54.80 [3252:14184:0224/101454.805:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:20:18.08 [3252:14184:0224/102018.085:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:23:27.38 [3252:14184:0224/102327.386:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:33:20.81 [3252:14184:0224/103320.810:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 10:33:21.02 [3252:14184:0224/103321.022:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2020 10:38:36.59 [3252:14184:0224/103836.593:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:43:37.24 [3252:14184:0224/104337.241:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:48:44.05 [3252:14184:0224/104844.057:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:53:48.83 [3252:14184:0224/105348.810:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 10:58:49.74 [3252:14184:0224/105849.740:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 11:00:14.70 [0224/110014.680:ERROR:process_info.cc(359)] UncheckedAllocate
+Feb 24, 2020 11:02:13.92 [0224/110213.921:ERROR:process_info.cc(359)] UncheckedAllocate
+Feb 24, 2020 11:02:14.08 [3252:14184:0224/110214.079:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 24, 2020 11:02:44.85 [0224/110244.853:ERROR:process_info.cc(359)] UncheckedAllocate
+Feb 24, 2020 11:02:51.49 [0224/110251.488:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\rahul\AppData\Local\Google\Chrome\User Data\Crashpad\reports\9f6b9795-83ba-4a23-9059-440bdd73811e.dmp: The process cannot access the file because it is being used by another process. (0x20)
+Feb 24, 2020 11:02:51.75 [0224/110251.753:ERROR:process_info.cc(359)] UncheckedAllocate
+
+Feb 25, 2020 09:10:41.17 NEW SESSION
+Feb 25, 2020 09:10:41.17 [3144:10636:0225/091041.166:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 09:11:03.82 [3144:10636:0225/091103.822:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 09:11:13.54 [3144:8584:0225/091113.540:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Feb 25, 2020 09:11:58.00 [3144:10636:0225/091158.000:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 09:13:49.78 [3144:10636:0225/091349.787:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Feb 25, 2020 11:04:37.48 NEW SESSION
+Feb 25, 2020 11:04:37.48 [10168:8320:0225/110437.483:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 25, 2020 12:04:12.18 [6264:1180:0225/120412.150:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Feb 25, 2020 12:50:48.08 NEW SESSION
+Feb 25, 2020 12:50:48.08 [11260:12284:0225/125048.079:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 12:51:16.90 [11260:12284:0225/125116.909:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 12:52:08.21 [11260:12284:0225/125208.218:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 12:53:50.13 [11260:12284:0225/125350.136:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 12:57:08.07 [11260:12284:0225/125708.079:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:03:31.20 [11260:12284:0225/130331.200:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:06:19.34 [9988:11060:0225/130619.342:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:06:47.24 [9988:11060:0225/130647.244:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:07:37.52 [9988:11060:0225/130737.528:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:09:25.25 [9988:11060:0225/130925.257:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:13:03.89 [9988:11060:0225/131303.897:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:18:42.04 [9988:11060:0225/131842.041:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 13:33:13.12 [6292:11744:0225/133313.120:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Feb 25, 2020 13:33:13.30 [6292:11744:0225/133313.123:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\rahul\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\rahul\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Feb 25, 2020 13:33:13.30 [6292:11744:0225/133313.123:ERROR:disk_cache.cc(178)] Unable to create cache
+Feb 25, 2020 13:33:13.30 [6292:11744:0225/133313.123:ERROR:shader_disk_cache.cc(605)] Shader Cache Creation failed: -2
+Feb 25, 2020 15:32:59.97 [7324:11508:0225/153259.754:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 25, 2020 15:42:57.75 [7324:11508:0225/154257.752:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 15:43:25.03 [7324:11508:0225/154325.030:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 15:44:22.09 [7324:11508:0225/154422.092:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 15:45:44.66 [7324:11508:0225/154544.668:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 15:48:50.09 [7324:11508:0225/154850.090:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+Feb 25, 2020 16:32:42.77 [7324:6288:0225/163242.770:ERROR:block_files.cc(469)] Failed to open C:\Users\rahul\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\data_0
+Feb 25, 2020 16:33:16.31 [7324:3484:0225/163316.315:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+Feb 25, 2020 16:33:16.31 [7324:3484:0225/163316.315:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+Feb 25, 2020 16:33:16.64 [7324:3484:0225/163316.643:ERROR:command_buffer_proxy_impl.cc(124)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+Feb 25, 2020 16:34:48.54 [7324:11508:0225/163448.544:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Feb 26, 2020 13:16:01.81 NEW SESSION
+Feb 26, 2020 13:16:01.81 [0226/131601.737:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+Feb 26, 2020 13:16:01.83 [0226/131601.737:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+Feb 26, 2020 13:16:01.84 [0226/131601.753:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+Feb 26, 2020 13:16:01.84 [0226/131601.753:ERROR:process_info.cc(551)] ReadProcessData failed
+Feb 26, 2020 13:16:01.84 [0226/131601.753:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+Feb 26, 2020 13:16:01.84 [0226/131601.753:ERROR:process_info.cc(551)] ReadProcessData failed
+
+Feb 26, 2020 16:18:17.07 NEW SESSION
+Feb 26, 2020 16:18:17.07 [10644:8408:0226/161817.043:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint 0.861 s
+Feb 26, 2020 16:18:18.47 [10644:8408:0226/161818.475:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.778 s for first_image_paint 0.861 s
+Feb 26, 2020 16:18:19.94 [10644:8408:0226/161819.941:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.778 s for first_image_paint 0.861 s
+Feb 26, 2020 16:18:22.34 [10644:8408:0226/161822.342:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.778 s for first_image_paint 0.861 s
+Feb 26, 2020 16:18:23.46 [10644:8408:0226/161823.460:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.778 s for first_image_paint 0.861 s
+Feb 26, 2020 16:18:24.32 [10644:8408:0226/161824.326:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.778 s for first_image_paint 0.861 s
+
+Feb 28, 2020 23:02:58.23 NEW SESSION
+Feb 28, 2020 23:02:58.23 [3724:14848:0228/230258.128:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Feb 28, 2020 23:03:03.14 [3724:14848:0228/230303.143:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Feb 28, 2020 23:03:08.15 [3724:14848:0228/230308.157:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Feb 28, 2020 23:03:13.17 [3724:14848:0228/230313.171:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Feb 28, 2020 23:04:58.47 [3724:14848:0228/230458.475:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Feb 28, 2020 23:09:52.64 [0228/230952.484:ERROR:crashpad_client_win.cc(175)] crash server did not respond, self-terminating
+
+Mar 19, 2020 14:43:28.17 NEW SESSION
+Mar 19, 2020 14:43:28.37 [2496:9344:0319/144327.656:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 14:43:28.42 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 14:48:36.25 [2496:9344:0319/144836.252:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 14:48:36.27 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 16:36:31.89 [2496:9344:0319/163630.899:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 16:36:32.38 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 16:43:41.81 [2496:9344:0319/164341.813:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 16:43:41.81 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 16:44:55.18 [2496:10880:0319/164455.183:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:45:00.18 [2496:10880:0319/164500.185:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:45:05.19 [2496:10880:0319/164505.190:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:45:10.19 [2496:10880:0319/164510.191:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:50:15.44 [2496:10880:0319/165015.440:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:50:20.48 [2496:10880:0319/165020.450:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:50:50.48 [2496:10880:0319/165050.483:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:50:55.48 [2496:10880:0319/165055.484:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:51:00.48 [2496:10880:0319/165100.485:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:51:05.48 [2496:10880:0319/165105.486:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:53:25.10 [2496:9344:0319/165325.102:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+Mar 19, 2020 16:53:25.36 [2496:9344:0319/165325.367:ERROR:cmd_buffer_helper.cc(141)] ContextResult::kFatalFailure: CommandBufferHelper::AllocateRingBuffer() failed
+Mar 19, 2020 16:57:52.12 [2496:10880:0319/165752.121:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:57:57.13 [2496:10880:0319/165757.134:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:02.14 [2496:10880:0319/165802.148:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:07.15 [2496:10880:0319/165807.157:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:12.16 [2496:10880:0319/165812.162:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:17.17 [2496:10880:0319/165817.170:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:22.17 [2496:10880:0319/165822.178:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:47.24 [2496:10880:0319/165847.239:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+Mar 19, 2020 16:58:52.25 [2496:10880:0319/165852.251:ERROR:memory_details_win.cc(62)] CreateToolhelp32Snapshot failed: 0
+
+May 01, 2020 20:28:03.76 NEW SESSION
+May 01, 2020 20:28:03.76 [4988:8656:0501/202803.766:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 01, 2020 20:43:45.94 [6588:11552:0501/204345.944:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 01, 2020 21:13:18.93 NEW SESSION
+May 01, 2020 21:13:18.93 [4980:12832:0501/211318.923:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 03, 2020 13:43:01.42 NEW SESSION
+May 03, 2020 13:43:01.42 [10464:9384:0503/134301.421:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 03, 2020 18:44:59.98 NEW SESSION
+May 03, 2020 18:45:00.10 [14276:13804:0503/184458.460:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 03, 2020 18:45:21.61 [11000:6136:0503/184521.615:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 06, 2020 13:20:45.78 NEW SESSION
+May 06, 2020 13:20:45.78 [4976:11816:0506/132045.769:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 26, 2020 13:19:02.67 NEW SESSION
+May 26, 2020 13:19:02.67 [1972:12888:0526/131902.574:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 13:20:12.44 [1972:12888:0526/132012.444:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:20:12.44 [1972:12888:0526/132012.444:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:20:42.93 [1972:12888:0526/132042.937:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:20:43.91 [1972:12888:0526/132042.937:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:20:43.93 [1972:12888:0526/132043.938:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:20:43.94 [1972:12888:0526/132043.938:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:20:44.16 [1972:12888:0526/132044.163:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:20:44.16 [1972:12888:0526/132044.163:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:20:44.60 [1972:12888:0526/132044.599:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:20:44.60 [1972:12888:0526/132044.600:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:21:08.38 [1972:12888:0526/132108.382:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:21:08.38 [1972:12888:0526/132108.382:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:24:26.93 [1972:12888:0526/132426.936:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:24:26.93 [1972:12888:0526/132426.936:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:24:27.23 [1972:12888:0526/132427.238:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:24:27.24 [1972:12888:0526/132427.239:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:24:27.54 [1972:12888:0526/132427.548:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:24:27.55 [1972:12888:0526/132427.548:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:24:27.72 [1972:12888:0526/132427.728:ERROR:CONSOLE(2)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (2)
+May 26, 2020 13:24:27.72 [1972:12888:0526/132427.728:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html;charset=ISO-8859-1,%3Chtml%3E%0D%0A%3Cbody%20onload=%22displayusers%22%3E%0D%0A%0D%0A%0D%0A%09%3Cscript%20type=%22text/javascript%22%3E%0D%0A%09%09function%20displayusers()%0D%0A%09%09%7B%0D%0A%09%09%09var%20req%20=%20new%20XMLHttpRequest();%0D%0A%09%09%09req.open(%22GET%22,%22display%22,%22true%22);%0D%0A%09%09%09req.send(null);%0D%0A%09%09%09req.onreadystatechange=function()%0D%0A%09%09%09%7B%0D%0A%09%09%09%09if(req.readyState==4%20&&%20req.status==200)%0D%0A%09%09%09%09%09%7B%0D%0A%09%09%09%09%09%09var%20users%20=%20JSON.parse(req.responseText);%0D%0A%09%09%09%09%09%09console.log(users);%0D%0A%09%09%09%09%09%7D%0D%0A%09%09%09%7D%0D%0A%09%09%7D%0D%0A%09%3C/script%3E%0D%0A%3C/body%3E%0D%0A%3C/html%3E%0D%0A (0)
+May 26, 2020 13:38:36.70 [0526/133836.706:ERROR:process_info.cc(359)] UncheckedAllocate
+
+May 26, 2020 15:13:59.20 NEW SESSION
+May 26, 2020 15:13:59.20 [14448:14140:0526/151359.072:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 15:14:18.54 [14448:388:0526/151418.544:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+May 26, 2020 15:14:40.18 [9828:13852:0526/151440.185:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+May 26, 2020 19:07:43.04 NEW SESSION
+May 26, 2020 19:07:43.04 [652:12132:0526/190742.923:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 19:07:59.55 [6620:11700:0526/190759.553:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 19:09:05.30 [5980:7452:0526/190905.309:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 19:34:53.87 [8328:9312:0526/193453.776:ERROR:browser_switcher_service.cc(238)] XXX Init()
+May 26, 2020 19:49:07.16 [8328:6968:0526/194907.168:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+May 29, 2020 22:43:42.76 NEW SESSION
+May 29, 2020 22:43:42.76 Opening in existing browser session.
+
+May 31, 2020 15:51:51.48 NEW SESSION
+May 31, 2020 15:51:51.48 [0531/155151.439:ERROR:crash_report_database_win.cc(428)] unexpected header
+May 31, 2020 15:55:02.32 [0531/155502.327:ERROR:crash_report_database_win.cc(428)] unexpected header
+May 31, 2020 15:55:21.63 [0531/155521.639:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 14:36:33.73 [0601/143633.721:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 16:20:31.07 [0601/162031.024:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 16:27:37.23 [0601/162737.238:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 16:31:50.64 [0601/163150.643:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 01, 2020 16:49:37.43 NEW SESSION
+Jun 01, 2020 16:49:37.43 [0601/164937.403:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 21:00:43.70 [0601/210043.692:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 21:06:13.51 [0601/210611.339:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 01, 2020 21:18:16.71 [0601/211814.337:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 05, 2020 21:15:27.86 NEW SESSION
+Jun 05, 2020 21:15:27.86 [0605/211527.844:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 05, 2020 21:18:03.54 [0605/211803.548:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 05, 2020 22:25:40.16 NEW SESSION
+Jun 05, 2020 22:25:40.16 [0605/222540.165:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 05, 2020 22:50:06.47 [0605/225006.477:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 05, 2020 22:57:20.02 [0605/225719.115:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 05, 2020 23:02:39.30 [0605/230238.112:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 06, 2020 12:57:55.82 NEW SESSION
+Jun 06, 2020 12:57:55.82 [0606/125755.810:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:00:23.21 [0606/130023.137:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:00:46.32 [0606/130046.167:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:03:13.94 [0606/130313.854:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:13:24.90 [0606/131324.811:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:14:50.17 [0606/131450.170:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:16:31.71 [0606/131631.697:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 13:19:35.11 [0606/131935.111:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 06, 2020 15:11:27.46 NEW SESSION
+Jun 06, 2020 15:11:27.46 [0606/151127.459:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 15:12:44.51 [0606/151244.513:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 15:15:04.64 [0606/151504.211:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 15:18:45.13 [0606/151844.663:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 15:39:47.39 [0606/153947.052:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 16:18:51.86 [0606/161850.322:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 16:27:40.80 [0606/162738.954:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 16:30:09.35 [0606/163007.137:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 06, 2020 21:23:13.77 NEW SESSION
+Jun 06, 2020 21:23:13.78 [0606/212313.728:ERROR:crash_report_database_win.cc(428)] unexpected header
+Jun 06, 2020 21:34:00.45 [0606/213400.455:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 17, 2020 23:26:40.55 NEW SESSION
+Jun 17, 2020 23:26:40.59 [0617/232639.351:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Jun 23, 2020 22:02:12.76 NEW SESSION
+Jun 23, 2020 22:02:12.96 [13676:14176:0623/220211.795:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Jul 06, 2020 21:22:31.71 NEW SESSION
+Jul 06, 2020 21:22:31.71 [0706/212231.658:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Aug 09, 2020 13:59:51.30 NEW SESSION
+Aug 09, 2020 13:59:51.30 [16168:16272:0809/135951.256:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 09, 2020 15:39:39.21 [16168:16272:0809/153939.215:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 09, 2020 15:39:39.27 [16168:16272:0809/153939.279:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 16:18:46.38 [16168:16272:0809/161846.368:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Aug 10, 2020 22:38:12.71 NEW SESSION
+Aug 10, 2020 22:38:12.71 [436:14200:0810/223812.555:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 11, 2020 02:49:50.28 [436:14200:0811/024950.280:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 11, 2020 02:49:50.34 [436:14200:0811/024950.344:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 11, 2020 02:49:54.44 [436:16856:0811/024954.440:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2020 07:47:57.01 [436:14200:0811/074757.010:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 11, 2020 07:48:02.78 [436:17164:0811/074802.778:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2020 07:48:44.74 [436:16084:0811/074844.745:ERROR:gcm_store_impl.cc(638)] LevelDB remove failed: NotFound: 
+Aug 11, 2020 07:48:44.74 [436:14200:0811/074844.745:ERROR:mcs_client.cc(526)] GCM Update failed!
+
+Aug 11, 2020 14:28:39.46 NEW SESSION
+Aug 11, 2020 14:28:39.46 [16172:3180:0811/142839.442:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Aug 14, 2020 14:55:50.85 NEW SESSION
+Aug 14, 2020 14:55:50.85 [16160:16156:0814/145550.613:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Aug 14, 2020 19:56:56.01 [11436:15356:0814/195655.742:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 14, 2020 21:12:20.57 [11436:15356:0814/211220.577:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 14, 2020 21:22:51.62 [11436:15356:0814/212251.626:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 14, 2020 21:53:59.59 [11436:15356:0814/215359.598:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 14, 2020 23:53:30.53 [11436:15356:0814/235330.531:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 14, 2020 23:53:33.63 [11436:15356:0814/235333.631:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2020 02:53:40.56 [11436:15356:0815/025340.560:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 15, 2020 02:53:44.91 [11436:15356:0815/025344.916:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2020 14:41:40.85 [11436:15356:0815/144140.850:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 15, 2020 14:55:35.12 [11436:4320:0815/145535.127:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Aug 15, 2020 15:18:48.95 [11436:15356:0815/151848.956:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 15, 2020 18:18:53.25 [11436:15356:0815/181853.253:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 15, 2020 18:18:54.71 [11436:15356:0815/181854.715:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 18:18:54.71 [11436:15356:0815/181854.715:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 18:18:56.39 [11436:15356:0815/181856.394:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 15, 2020 18:19:15.18 [11436:15356:0815/181915.189:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 18:19:17.46 [11436:15356:0815/181917.466:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 18:20:12.09 [11436:15356:0815/182012.092:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 18:20:13.59 [11436:15356:0815/182013.599:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 22:12:03.54 [11436:15356:0815/221203.543:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Aug 15, 2020 22:12:07.98 [11436:15356:0815/221207.987:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 22:12:07.99 [11436:15356:0815/221207.987:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 15, 2020 22:12:13.20 [11436:15356:0815/221213.200:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105

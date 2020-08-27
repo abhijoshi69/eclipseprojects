@@ -1,0 +1,73 @@
+package com.learning.demotesttdd.controller;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.google.gson.Gson;
+import com.learning.demotesttdd.models.UserModel;
+import com.learning.demotesttdd.services.DOA_Imp;
+import com.learning.demotesttdd.services.IDOA;
+
+/**
+ * Servlet implementation class ProcessData
+ */
+
+public class ProcessData extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+    RequestDispatcher dispatcher = null;
+    IDOA idoa;
+    public ProcessData() {
+        super();
+    }
+
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String urlPath = request.getServletPath();
+		response.setContentType("application/json");
+		System.out.println(urlPath);
+		switch(urlPath)
+		{
+			case "/":
+					dispatcher = request.getRequestDispatcher("/views/index.jsp");
+					dispatcher.forward(request, response);
+					break;
+			case "/display":
+					idoa = new DOA_Imp();
+					List<UserModel> userMap = new ArrayList();
+					userMap = idoa.getAllData();
+					Gson gson = new Gson();
+					String user = gson.toJson(userMap);
+					response.getWriter().print(user);
+					break;
+			case "/edit":
+				idoa = new DOA_Imp();
+				Gson g= new Gson();
+				UserModel userModel = g.fromJson(request.getReader(),UserModel.class);
+				boolean userdata = idoa.updataData(userModel.getId(),userModel);
+				System.out.println("welcome to servlet");
+				Map<String,Boolean> resData = new HashMap();
+				resData.put("status",userdata);
+			//	resData.put("userDetails",model);
+				response.getWriter().print(g.toJson(resData));
+				break;
+				
+		}
+	}
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+	}
+
+}

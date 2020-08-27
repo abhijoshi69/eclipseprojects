@@ -1,0 +1,150 @@
+package com.niit.advjava.demos.Sample;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import jdk.nashorn.internal.ir.RuntimeNode.Request;
+
+public class DB_Conn extends HttpServlet
+{
+	String user="sa";
+	String pwd="sasa";
+	String url="jdbc:sqlserver://localhost:1433;databaseName=ecommerce";
+	String username;
+	String password;
+	String productid;
+	String productname;
+	String productquantity;
+	String productdescription;
+	Statement st=null;
+	PreparedStatement pst=null;
+	Connection con=null;
+	Model1 model1;
+	public boolean getconn()
+	{
+		try
+		{
+			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+			con = DriverManager.getConnection(url,user,pwd);
+			if(con!=null)
+			{
+				return true;
+			}
+		}
+		catch(ClassNotFoundException e)
+		{
+			System.out.println(e);
+		}
+		catch(SQLException e)
+		{
+			System.out.println(e);
+		}
+		return false;
+	}
+	
+	public boolean check(String val1,String val2) throws Exception
+	{
+		if(getconn())
+		{
+			String query="select * from admin where username='"+val1+"' and password='"+val2+"'";
+			st = con.createStatement();
+			ResultSet rs = st.executeQuery(query);
+			if(rs.next())
+			{
+				if(rs.getString("username").equals(val1) && rs.getString("password").equals(val2))
+				{
+					return true;
+				}
+			}
+			
+		}
+		return false;
+	}
+	public int addProduct(Model1 model1)
+	{
+		//List<Model1> model = new ArrayList<>();
+		String productid = model1.getProductid();
+		String productname = model1.getProductname();
+		String productquantity = model1.getProductquantity();
+		String productdescription = model1.getProductdescription();
+		int productInserted=0;
+		if(getconn())
+		{
+			String query = "insert into product values(?,?,?,?)";
+			try
+			{
+				pst = con.prepareStatement(query);
+				pst.setString(1,productid);
+				pst.setString(2,productname);
+				pst.setString(3,productquantity);
+				pst.setString(4,productdescription);
+				productInserted=pst.executeUpdate();
+			}
+			catch(SQLException e)
+			{
+				System.out.println(e);
+			}
+		}
+		System.out.println(productInserted);
+		return productInserted;
+	}
+	public Model1 getviewbyID(int i)
+	{
+		if(getconn())
+		{
+			String query = "select * from product where productid=?";
+			try
+			{
+				pst = con.prepareStatement(query);
+				pst.setInt(1, i);
+				ResultSet rs = pst.executeQuery();
+				if(rs.next())
+				{
+					model1 = new Model1();
+					model1.setProductid(rs.getString("productid"));
+					model1.setProductname(rs.getString("productname"));
+					model1.setProductquantity(rs.getString("productquantity"));
+					model1.setProductdescription(rs.getString("productdescription"));
+					
+					
+				}
+			}
+		}
+	}
+	public List<Model1> viewall(Model1 model)
+	{
+		List<Model1> model1 = new ArrayList<Model1>();
+		Model1 model2;
+		String query = "select * from where productid=?,productname=?,productquantity=? and productdescription=?";
+		try
+		{
+			st = con.createStatement();
+			ResultSet rs = st.executeQuery(query);
+			while(rs.next())
+			{
+				String productid = rs.getString("productid");
+				String productname = rs.getString("productname");
+				String productquantity = rs.getString("productquantity");
+				String productdescription = rs.getString("productdescription");
+				model2 = new Model1(productid,productname,productquantity,productdescription);
+				model1.add(model2);
+			}
+		}
+		catch(SQLException e)
+		{
+			System.out.println(e);
+		}
+		return model1;
+	}
+}

@@ -1,0 +1,5 @@
+package com.learning.logincheckingjsonapi.services;
+
+public interface IDOA {
+
+}

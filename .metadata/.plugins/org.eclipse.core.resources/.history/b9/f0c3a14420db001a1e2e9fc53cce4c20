@@ -1,0 +1,5 @@
+package com.learning.logincheckingjsonapi.config;
+
+public class LoginCheckingJsonApiConfig {
+
+}

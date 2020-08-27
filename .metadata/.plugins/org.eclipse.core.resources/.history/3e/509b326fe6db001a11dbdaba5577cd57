@@ -1,0 +1,5 @@
+package com.learning.imagejsonapi.model;
+
+public class UserModel {
+
+}

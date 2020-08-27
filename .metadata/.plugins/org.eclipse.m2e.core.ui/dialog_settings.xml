@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\rahul\eclipse-workspace\LoginSecurity\src\main\java\com\learning\loginsecurity\controller\HomeController.java"/>
+			<item value="C:\Users\rahul\eclipse-workspace\SpringDatabase\src\main\java\com\learning\springdatabase\controller\HelloController.java"/>
+			<item value="C:\Users\rahul\eclipse-workspace\SpringMVCPractice1"/>
+			<item value="C:\Users\rahul\eclipse-workspace\SpringMvcPractice"/>
+			<item value="C:\Users\rahul\eclipse-workspace\DiConfig\src\main\java\com\e_commerce\di_config\App.java"/>
+			<item value="C:\Users\rahul\eclipse-workspace\ProjectDemo1\src\test\java\com\learning\projectdemotdd\ProjectDemoTdd.java"/>
+			<item value="C:\Users\rahul\eclipse-workspace\AjaxRequestDemo\src\main\webapp\index.html"/>
+			<item value="C:\Users\rahul\eclipse-workspace\EcommerceH2\src\main\webapp\ProductView.jsp"/>
+			<item value="C:\Users\rahul\eclipse-workspace\ClientSide"/>
+			<item value="C:\Users\rahul\eclipse-workspace\EcommerceDemo1"/>
+			<item value="C:\Users\rahul\eclipse-workspace\DatabaseTDD\src\main\java\com\learning\database_tdd\service\DAO_Imp.java"/>
+			<item value="C:\Users\rahul\eclipse-workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.e_commerce.imagejsonapi"/>
+			<item value="com.e_commerce.logincheckingjsonapi"/>
+			<item value="com.e_commerce.springjsonapi"/>
+			<item value="com.e_commerce.practicespringcrud"/>
+			<item value="com.e_commerce.springjsoncurd"/>
+			<item value="com.e_commerce.springloginsecurity"/>
+			<item value="com.e_commerce.springdb.SpringMvcDb"/>
+			<item value="com.e_commerce.springmvcdatabase"/>
+			<item value="com.e_commerce.springdatabasepractice"/>
+			<item value="com.e_commerce.springdatabase"/>
+			<item value="com.e_commerce.mvcspring"/>
+			<item value="com.e_commerce.springmvcpractice.SpringMVC"/>
+			<item value="com.e_commerce.springmvc"/>
+			<item value="com.e_commerce.diannotationspractice"/>
+			<item value="com.e_commerce.diannotations"/>
+		</list>
+		<list key="groupId">
+			<item value="com.e-commerce.imagejsonapi"/>
+			<item value="com.e-commerce.logincheckingjsonapi"/>
+			<item value="com.e-commerce.springjsonapi"/>
+			<item value="com.e-commerce.practicespringcrud"/>
+			<item value="com.e-commerce.springjsoncurd"/>
+			<item value="com.e-commerce.springloginsecurity"/>
+			<item value="com.e-commerce.springdb"/>
+			<item value="com.e-commerce.springmvcdatabase"/>
+			<item value="com.e-commerce.springdatabasepractice"/>
+			<item value="com.e-commerce.springdatabase"/>
+			<item value="com.e-commerce.mvcspring"/>
+			<item value="com.e-commerce.springmvcpractice"/>
+			<item value="com.e-commerce.springmvc"/>
+			<item value="com.e-commerce.diannotationspractice"/>
+			<item value="com.e-commerce.diannotations"/>
+		</list>
+		<list key="artifactId">
+			<item value="ImageJsonApi"/>
+			<item value="LoginCheckingJsonApi"/>
+			<item value="SpringJsonApi"/>
+			<item value="PracticeSpringCrud"/>
+			<item value="SpringJsonCrud"/>
+			<item value="SpringLoginSecurity"/>
+			<item value="SpringMvcDb"/>
+			<item value="SpringMvcDatabase"/>
+			<item value="SpringDatabase"/>
+			<item value="SpringDB"/>
+			<item value="SpringMVCPractice1"/>
+			<item value="SpringMVC"/>
+			<item value="SpringMvcPractice"/>
+			<item value="DiAnnotationsPractice"/>
+			<item value="DiAnnotations"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

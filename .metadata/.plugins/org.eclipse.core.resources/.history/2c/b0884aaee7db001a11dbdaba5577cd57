@@ -1,0 +1,30 @@
+package com.learning.imagejsonapi.services;
+
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+import com.learning.imagejsonapi.dbconfig.CreateConnection;
+import com.learning.imagejsonapi.model.UserModel;
+
+public class DOA_Imp implements IDOA
+{
+	CreateConnection createConnection = new CreateConnection();
+	Connection connection = createConnection.getConnection();
+	
+	PreparedStatement preparedStatement = null;
+	Statement statement = null;
+	ResultSet resultSet = null;
+	
+	UserModel model = null;
+	
+	String query = null;
+	
+	public int insertData(UserModel model) 
+	{
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

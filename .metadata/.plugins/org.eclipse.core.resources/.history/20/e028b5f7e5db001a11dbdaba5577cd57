@@ -1,0 +1,5 @@
+package com.learning.imagejsonapi.config;
+
+public class ImageJsonApiConfig {
+
+}

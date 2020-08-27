@@ -1,0 +1,9 @@
+package com.learning.logincheckingjsonapi.services;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public interface IDOA 
+{
+
+}

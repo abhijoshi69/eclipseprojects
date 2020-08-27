@@ -1,0 +1,20 @@
+package com.learning.imagejsonapi.services;
+
+import java.sql.Connection;
+import java.sql.Statement;
+
+import org.springframework.stereotype.Component;
+
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+import com.learning.imagejsonapi.dbconfig.CreateConnection;
+import com.learning.imagejsonapi.model.UserModel;
+
+@Component
+public class DOA_Imp implements IDOA
+{
+
+	
+	
+}

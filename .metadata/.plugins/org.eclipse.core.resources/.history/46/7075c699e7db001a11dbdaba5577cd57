@@ -1,0 +1,12 @@
+package com.learning.imagejsonapi.services;
+
+public class DOA_Imp implements IDOA
+{
+	
+	public int insertData(UserModel model) 
+	{
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

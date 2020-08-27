@@ -1,0 +1,47 @@
+<html>
+<body onload="displayUsers()">
+	<table border="1">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Address</th>
+				<th>Password</th>
+			</tr>
+		</thead>
+		<tbody id="userTable">
+		</tbody>
+	</table>
+	<script type="text/javascript">
+		function displayUsers()
+		{
+			var tableData = document.getElementById("userTable").innerHTML;
+			var req = new XMLHttpRequest();
+			req.open("GET","display","true");
+			req.send(null);
+			
+			req.onreadystatechange=function(){
+				if(req.readyState==4 && req.status==200)
+					{
+						var users = JSON.parse(req.responseText);
+						console.log(users);
+						for(var i=0;i<users.length;i++)
+							{
+								tableData=tableData+"<tr>"+
+														"<td>"+users[i].id+"</td>"+
+														"<td>"+users[i].name+"</td>"+
+														"<td>"+users[i].address+"</td>"+
+														"<td>"+users[i].password+"</td>"+
+														"<td><a href='viewbyid.jsp?viewid="+users[i].id+"'><button>view</button></a></td>"+
+														"<td><a href='update.jsp?viewid="+users[i].id+"'><button>update</button></a></td>"+
+														"<td><a href='delete.jsp?viewid="+users[i].id+"'><button id="deleteData">delete</button></a></td>"+
+														"</tr>";
+								
+							}
+						document.getElementById("userTable").innerHTML=tableData;
+					}
+			}
+		}
+	</script>
+</body>
+</html>

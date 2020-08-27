@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+		<input type="text" id="search" onkeyup="search()" name="name"/>
+		<div id="res"></div>
+		<script type="text/javascript">
+			function search()
+			{
+				var value = document.getElementById("search").value;
+				var dv = document.getElementById("res");
+				var resp = new XMLHttpRequest();
+				resp.open("GET","updateInfo.jsp?txt="+value,true);
+				resp.send(null);
+				resp.onreadystatechange=function()
+				{
+					if(resp.readyState==4 && resp.status==200)
+						{
+							dv.innerHTML=resp.responseText;
+						}
+					else
+					{
+						if(resp.readyState==4 && resp.status==404)
+						{
+							dv.innerHTML="Resource not found";
+						}
+						
+						
+					}	
+					
+				}
+			}
+		</script>
+</body>
+</html>

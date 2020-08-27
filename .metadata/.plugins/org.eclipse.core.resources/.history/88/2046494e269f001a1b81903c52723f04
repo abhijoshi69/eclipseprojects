@@ -1,0 +1,22 @@
+<html>
+<body onload="displayusers">
+
+
+	<script type="text/javascript">
+		function displayusers()
+		{
+			var req = new XMLHttpRequest();
+			req.open("GET","display","true");
+			req.send(null);
+			req.onreadystatechange=function()
+			{
+				if(req.readyState==4 && req.status==200)
+					{
+						var users = JSON.parse(req.responseText);
+						console.log(users);
+					}
+			}
+		}
+	</script>
+</body>
+</html>

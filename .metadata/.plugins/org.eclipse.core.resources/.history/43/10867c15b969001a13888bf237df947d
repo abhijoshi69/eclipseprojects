@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  		<div class="container">
+    		<!-- <a class="navbar-brand" style="color: #fff">Welcome <%=value%></a> -->
+		<form class="form-inline">
+			<button style="margin-left: 5px; color: #fff"
+					class="btn btn-outline-success my-2 my-sm-0" type="submit">
+				<a href="Product.jsp">ADD ITEM</a>
+			</button>
+			<button style="margin-left: 5px; color: #fff"
+				class="btn btn-outline-success my-2 my-sm-0" type="submit">
+				<a href="LogOut">LOG OUT</a>
+			</button>
+		</form>
+    		
+  		</div>
+	</nav>
+</body>
+</html>

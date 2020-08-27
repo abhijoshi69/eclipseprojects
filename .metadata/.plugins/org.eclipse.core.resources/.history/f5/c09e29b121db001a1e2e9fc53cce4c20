@@ -1,0 +1,16 @@
+package com.learning.logincheckingjsonapi.services;
+
+import org.springframework.stereotype.Component;
+
+import com.learning.logincheckingjsonapi.model.UserModel;
+
+@Component
+public class DOA_Imp implements IDOA 
+{
+
+	public int insertCredentials(UserModel model) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+}

@@ -1,0 +1,55 @@
+<%@page import="com.niit.Sample.Model"%>
+<%@page import="java.util.List"%>
+<%@page import="com.niit.Sample.DB_Conn"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+	DB_Conn db = new DB_Conn();
+	int id = Integer.parseInt(request.getParameter("viewd"));
+	List<Model> onedata = db.viewbyid(id);
+	if(onedata.size()>0)
+	{
+%>
+		<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+
+    <!-- Icon -->
+    <div class="fadeIn first">
+      <label>Product Details</label>
+    </div>
+    <form>
+    <%
+    	for(Model model : onedata)
+    	{
+    		
+    %>
+
+    	<!-- Login Form -->
+    	
+    		<label for="id"></label>
+      		<input type="text" id="productid" class="fadeIn second" name="productid" placeholder="ProductID">
+      		<input type="text" id="productname" class="fadeIn third" name="productname" placeholder="ProductName">
+      		<input type="text" id="productquantity" class="fadeIn fourth" name="productquantity" placeholder="ProductQuantity">
+      		<input type="text" id="productcost" class="fadeIn fifth" name="productcost" placeholder="ProductCost">
+			<input type="text" id="productdescription" class="fadeIn sixth" name="productdescription" placeholder="ProductDescription">	
+      		<input type="submit" class="fadeIn seventh" value="Add Products">
+    	</form>
+
+
+    <!-- Remind Passowrd -->
+    <div id="formFooter">
+      <a class="underlineHover" href="#">Forgot Password?</a>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

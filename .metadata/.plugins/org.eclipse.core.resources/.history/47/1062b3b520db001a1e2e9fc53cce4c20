@@ -1,0 +1,5 @@
+package com.learning.logincheckingjsonapi.controller;
+
+public class LoginCheckingJsonApiHomeController {
+
+}

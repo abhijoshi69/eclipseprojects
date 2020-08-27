@@ -1,0 +1,16 @@
+package com.learning.logincheckingjsonapi.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.learning.logincheckingjsonapi.model.UserModel;
+
+@Controller
+public class LoginCheckingJsonApiHomeController
+{
+	@Autowired
+	UserModel model;
+	
+	@Autowired
+	IDOA idoaservice;
+}

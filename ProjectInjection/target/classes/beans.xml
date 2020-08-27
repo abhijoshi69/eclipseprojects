@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:context="http://www.springframework.org/schema/context"
+xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd">
+	<bean class="com.e_commerce.projectinjection.DemoClass" id="demoBean">
+		<property name="videotype" ref="videotypeBean"></property>
+		<property name="platform" ref="platformBean"></property>
+		<property name="device" ref="deviceBean"></property>
+	</bean>
+	
+	<bean class="com.e_commerce.projectinjection.VideoType" id="videotypeBean">
+		<property name="videotype" value="Movie"></property>
+	</bean>
+	
+	<bean class="com.e_commerce.projectinjection.Platform" id="platformBean">
+		<property name="platform" value="Netflix"></property>
+	</bean>
+	
+	<bean class="com.e_commerce.projectinjection.Device" id="deviceBean">
+		<property name="device" value="Mobile"></property>
+	</bean>
+</beans>

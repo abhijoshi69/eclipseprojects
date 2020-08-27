@@ -1,0 +1,36 @@
+package com.learing.producttdd;
+
+import static org.junit.Assert.*;
+
+import org.junit.BeforeClass;
+import org.junit.Ignore;
+import org.junit.Test;
+
+import com.learing.productservices.DOA_Imp;
+import com.learing.productservices.IDOA;
+import com.learning.models.UserModel;
+
+public class ProductTestCase {
+
+	IDOA doaservice = new DOA_Imp();
+	@BeforeClass
+	public static void setUpBeforeClass() throws Exception 
+	{
+		
+	}
+
+	@Ignore
+	@Test
+	public void testConnection() 
+	{
+		boolean getConnected = doaservice.isConnected();
+		assertEquals(true,getConnected);
+	}
+	
+	@Test
+	public void insertData()
+	{
+		
+	}
+
+}

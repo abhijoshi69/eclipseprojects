@@ -1,0 +1,36 @@
+package com.learning.imagejsonapi.dbconfig;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class CreateConnection
+{
+	String url="";
+	String user="sa";
+	String pwd="";
+	
+	Connection connection = null;
+	
+	public Connection getConnection()
+	{
+		try
+		{
+			Class.forName("");
+			connection = DriverManager.getConnection(url, user, pwd);
+		}
+		catch(ClassNotFoundException e)
+		{
+			System.out.println("ClassNotFoundException Error: "+e.getMessage());
+		}
+		catch(SQLException e)
+		{
+			System.out.println("Connection Error: "+e.getMessage());
+		}
+		
+		return connection;
+	}
+}

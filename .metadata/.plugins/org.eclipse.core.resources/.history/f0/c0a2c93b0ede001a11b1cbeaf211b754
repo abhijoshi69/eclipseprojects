@@ -1,0 +1,11 @@
+package com.learning.imagejsonapi.services;
+
+import org.springframework.stereotype.Component;
+
+import com.learning.imagejsonapi.model.UserModel;
+
+@Component
+public interface IDOA 
+{
+	public int insertData(UserModel model);
+}

@@ -1,0 +1,25 @@
+<html>
+<body onload="displayusers()">
+	<table id="userTable">
+	
+	</table>
+
+	<script type="text/javascript">
+		function displayusers()
+		{
+			document.getElementById("userTable");
+			var req = new XMLHttpRequest();
+			req.open("GET","display","true");
+			req.send(null);
+			req.onreadystatechange=function()
+			{
+				if(req.readyState==4 && req.status==200)
+					{
+						var users = JSON.parse(req.responseText);
+						console.log(users);
+					}
+			}
+		}
+	</script>
+</body>
+</html>

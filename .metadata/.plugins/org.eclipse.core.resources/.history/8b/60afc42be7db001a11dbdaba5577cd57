@@ -1,0 +1,9 @@
+package com.learning.imagejsonapi.services;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public interface IDOA 
+{
+
+}
